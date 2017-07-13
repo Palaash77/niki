@@ -1,5 +1,5 @@
 # niki
-USAGE
+USAGE:
 python niki.py input.txt
 
 REQUIREMENT:
